@@ -1,0 +1,12 @@
+{
+  "name": "astra-ai-5.1",
+  "version": "1.0.0",
+  "description": "Ai-model",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node content"
+  },
+  "author": "adamya khairwal",
+  "license": "UNLICENSED"
+}
